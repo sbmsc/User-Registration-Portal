@@ -1,6 +1,3 @@
-# properties file
-application.properites
-
 # Compiled class file
 *.class
 
@@ -58,3 +55,4 @@ build/
 
 ### VS Code ###
 .vscode/
+backend/user/src/main/resources/application.properties
